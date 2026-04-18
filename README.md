@@ -15,8 +15,6 @@ The implementation adapts the [TGN](https://github.com/twitter-research/tgn) fra
 pip install torch numpy pandas scikit-learn
 ```
 
-Hardware used in the paper: GPU VM with 32 vCPUs, 125GB RAM, NVIDIA GPU (PyTorch 1.11+CUDA 11.3).
-
 ---
 
 ## Directory Structure
